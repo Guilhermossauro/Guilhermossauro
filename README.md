@@ -1,6 +1,6 @@
 ## Olaaa,eu sou o Guilherme Augusto estudante e autônomo  na área da programação e tecnologia !
 🔭 atualemente trabalho com back-end
-- 🌱 estudando powerBI C#, Javascript e algumas outras linguagens ensinadas na faculdade
+- 🌱 estudando powerBI C#, Javascript, MYSQL, python, PHP
 - 😄 Pronomes: ... ele/dele
 
 "I HAVE A CLEAR GOAL.
