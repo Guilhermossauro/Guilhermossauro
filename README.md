@@ -3,6 +3,15 @@
 - 🌱 estudando powerBI C#, Javascript e algumas outras linguagens ensinadas na faculdade
 - 😄 Pronomes: ... ele/dele
 
+"I HAVE A CLEAR GOAL.
+I HAVE A CLEAR MISSION.
+I HAVE A MEANINGFUL PURPOSE.
+I BELIEVE IN MYSELF!
+I WILL GIVE ALL I HAVE FOR THIS GOAL, THIS MISSION, MY PURPOSE!
+I WILL NOT BACK DOWN!
+I WILL NOT YIELD!
+I WILL FIGHT UNTIL MY LAST BREATH!  AND DO EVERYTHING TO WIN!  I’VE GOT THIS! "
+
 <div align="center">
   <a href="https://github.com/Guilhermossauro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilhermossauro&show_icons=true&theme=solarized-dark&include_all_commits=true&count_private=true"/>
