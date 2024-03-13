@@ -1,8 +1,7 @@
 <h1 align="center"><b>Olaaa,eu sou o Guilherme Augusto estudante e autônomo  na área da programação e tecnologia !</b><img src="https://raw.githubusercontent.com/TOXIC-DEVIL/TOXIC-DEVIL/TOXIC-DEVIL-OFFICIAL/media/Hi.gif" width="35"></h1>
 
 🔭 atualemente trabalho com back-end
-- 🌱 estudando powerBI C#, Javascript, MYSQL, python, PHP
-- 😄 Pronomes: ... ele/dele
+- 🌱 estudando Javascript, MYSQL, python, PHP
 
 "I HAVE A CLEAR GOAL.
 
