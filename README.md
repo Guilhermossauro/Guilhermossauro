@@ -53,7 +53,9 @@ I WILL FIGHT UNTIL MY LAST BREATH!  AND DO EVERYTHING TO WIN!  I’VE GOT TH
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" height="40px" width="40px">
     <img src="https://cdn-icons-png.flaticon.com/512/919/919832.png" height="40px" width="40px">
 </div><br>
-
+<div>
+ <img height="180em" width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=guilhermossauro&show_icons=true&theme=tokyonight" alt="Souzzs Stats" />
+  <img height="180em" width="400px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermossauro&layout=compact&theme=tokyonight" alt="Souzzs Most Languages" />
 
   
   
