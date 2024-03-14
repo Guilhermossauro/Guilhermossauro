@@ -22,7 +22,7 @@ I WILL FIGHT UNTIL MY LAST BREATH!  AND DO EVERYTHING TO WIN!  I’VE GOT TH
 
 
 <p align="center">
-  <a href="https://github.com/TOXIC-DEVIL"><img src="https://readme-typing-svg.demolab.com/?lines=<Hobby+Developer/>&font=Time+New+Roman&color=90EE90&size=25&center=true&vCenter=true&width=600&height=100"></a>
+  <a><img src="https://readme-typing-svg.demolab.com/?lines=<Hobby+Developer/>&font=Time+New+Roman&color=90EE90&size=25&center=true&vCenter=true&width=600&height=100"></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
